@@ -1,0 +1,17 @@
+{
+  "name": "uphold-bot",
+  "version": "0.1.1",
+  "description": "a bot for working with uphold",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.spec.js"
+  },
+  "author": "Ignacio Rodriguez",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "uphold-sdk-node": "^2.2.3"
+  }
+}

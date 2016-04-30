@@ -1,0 +1,2 @@
+curl https://api.uphold.com/v0/ticker \
+  -u ${UPHOLD_TOKEN}:X-OAuth-Basic
