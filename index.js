@@ -75,4 +75,4 @@ var fish = function() {
     });
 };
 
-setInterval(fish, 450000);
+setInterval(fish, 3600000);
